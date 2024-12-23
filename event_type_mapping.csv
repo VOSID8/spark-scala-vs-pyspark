@@ -1,0 +1,6 @@
+Event Type,Description,Priority
+logout,User logged out,1
+view,Page view,2
+purchase,Product purchased,3
+click,Button clicked,4
+login,User logged in,5
